@@ -1,8 +1,8 @@
 
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/Guest_List)
-![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/Guest_List)
-![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/Guest_List)
-![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/Guest_List)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/Guest-List)
+![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/Guest-List)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/Guest-List)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/Guest-List)
 
 # Guest_List
 
