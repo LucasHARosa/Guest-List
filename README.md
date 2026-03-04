@@ -6,7 +6,7 @@
 
 # Guest_List
 
-<strong>Guest List</strong> É uma aplicação desenvolvida em React Native para Android e IOS que simula uma lista de presença. Trata-se de um projeto Front End onde o objetivo é treinar as habilidades de comunicação de componentes e estilização da página. 
+<strong>Guest List</strong> é um app mobile feito em React Native (iOS e Android) que simula uma lista de presença (adicionar/remover convidados). O projeto tem foco em praticar componentização, gerenciamento de estado e estilização de UI, servindo como exercício de base para aplicações reais.. 
 <p align="center">
     <img height="400" class="j" src="./imagens/videoinicial.gif" alt="">
 </p>
